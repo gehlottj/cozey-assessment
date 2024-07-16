@@ -1,12 +1,14 @@
 ## Run node App with below steps
 
-git clone {{repo_url}}
+`git clone {{repo_url}}`
 
-cd {{repo}}/backend
+`cd {{repo}}/backend`
+
+`npm install`
 
 `node .`
 
-```App will automatically run on port `3000`, can be changed in `backend/config/config.json` dile.```
+App will automatically run on port `3000`, can be changed in `backend/config/config.json` dile.
 
 ## Run unit tests in node with below command
 
@@ -19,11 +21,13 @@ cd {{repo}}/backend
 
 ## Run React App with below steps
 
-git clone {{repo_url}}
+`git clone {{repo_url}}`
 
-cd {{repo}}/frontend
+`cd {{repo}}/frontend`
+
+`npm install`
 
 `npm start`
 
-```App will automatically run on port `8000`, can be changed in `frontend/webpack.config.js` file.```
+App will automatically run on port `8000`, can be changed in `frontend/webpack.config.js` file.
 
