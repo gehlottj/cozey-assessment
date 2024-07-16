@@ -40,5 +40,5 @@ GET http://localhost:3000/api/orders/getOrderList
 
 App will automatically run on port `8000`, can be changed in `frontend/webpack.config.js` file.
 
-Accessible at: http://localhost:3000/
+Accessible at: http://localhost:8000/
 
