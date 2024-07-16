@@ -8,7 +8,7 @@
 
 `node .`
 
-App will automatically run on port `3000`, can be changed in `backend/config/config.json` dile.
+App will automatically run on port `3000`, can be changed in `backend/config/config.json` file.
 
 ## Run unit tests in node with below command
 
